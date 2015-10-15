@@ -1,0 +1,20 @@
+{
+  "name": "bchain",
+  "version": "0.0.1",
+  "description": "Minimal",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "respository": {
+    "type": "git",
+    "url": "https://github.com/SillyKnight/bchain"
+  },
+  "devDependencies": {},
+  "dependencies": {
+    "body-parser": "^1.14.1",
+    "cb-http-client": "^0.2.0",
+    "express": "^4.13.3",
+    "httpify": "^2.0.0",
+    "request": "^2.65.0"
+  }
+}
